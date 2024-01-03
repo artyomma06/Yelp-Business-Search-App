@@ -7,4 +7,5 @@ This is a video demo an IOS app which allows for users to search up businesses o
 - The mobile app was developed using SwiftUI.
 - The backend was developed using Node.js and Express.js which is running on a GCP instance.
 - The app also allows for users to "create reservations" which is simply stored within the apps local storage.
+- A full stack web application was also developed with the same functionality as the app in Angular.
 For access to the source code, please contact artyomma06@gmail.com.
